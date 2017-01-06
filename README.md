@@ -1,1 +1,1 @@
-# Small application to search for github usernames
+# Small application to search github by username
